@@ -1,0 +1,13 @@
+.progress-bar-container {
+    width: 400px;
+    height: 20px;
+    border: 1px solid #000;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .progress-bar {
+    height: 100%;
+    transition: width 0.5s ease-in-out; /* Transition effect for width change */
+  }
+  
